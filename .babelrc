@@ -1,0 +1,14 @@
+{
+  "presets": [
+    "es2015",
+    "react"
+  ],
+  "ignore": "node_modules",
+  "plugins": [
+    "transform-object-assign",
+    "transform-object-rest-spread"
+  ],
+  "compact": false,
+  "minified": false,
+  "retainLines": true
+}
